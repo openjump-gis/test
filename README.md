@@ -1,2 +1,2 @@
 # test
-jut a test to try out workflows
+just a test to try out workflows
